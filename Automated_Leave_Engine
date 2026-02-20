@@ -1,0 +1,30 @@
+3. Automated Leave, Attendance & Workload Balancing System
+Problem Description
+Leave approvals often ignore team workload and project deadlines.
+Project Objective
+To build an intelligent leave management system integrated with project planning.
+Key Features
+• Leave request portal
+• Workload analyzer
+• Team calendar
+• Auto-approval engine
+• Manager dashboard
+• Impact visualization
+Functional Requirements
+• Submit leave requests
+• Validate against deadlines
+• Display team availability
+• Auto-approve based on rules
+• Send approval notifications
+• Maintain leave history
+Non-Functional Requirements
+• High accuracy
+• Real-time updates
+• Data privacy
+• System reliability
+• Low downtime
+Technical Challenges
+• Calendar synchronization
+• Rule engine design
+• Handling peak requests
+• Data consistency
